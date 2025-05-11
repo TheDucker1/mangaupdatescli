@@ -14,5 +14,6 @@ Installing:
 git clone https://github.com/TheDucker1/mangaupdatescli.git
 cd mangaupdatescli
 curl https://api.mangaupdates.com/openapi.yaml -o openapi.yaml
+go generate
 go build .
 ```
