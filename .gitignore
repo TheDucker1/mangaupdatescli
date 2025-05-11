@@ -1,0 +1,4 @@
+openapi.yaml
+*generated_help.go
+*go_error
+*.exe
